@@ -214,7 +214,7 @@ Utilização da linguagem JavaScript com as tecnologias NodeJs, React e React Na
 
 ## Referências
 
-Devmedia. Curso de Mysql. Disponível em: <https://www.devmedia.com.br/mysql/>. Acesso em: 2 set. 2020.
+DEVMEDIA. Curso de Mysql. Disponível em: <https://www.devmedia.com.br/mysql/>. Acesso em: 2 set. 2020.
 
 FERNANDES, João M.; MACHADO, Ricardo J. Requisitos em projetos de software e de sistemas de informação. Novatec: São Paulo, 2017.
 
@@ -222,8 +222,8 @@ IEPSEN, Edécio Fernando. Lógica de programação e algoritmos com Javascript. 
 
 LIMA, Victor. Formação Node.js. Guia do Programador. Disponível em: <https://www.udemy.com/course/formacao-nodejs/learn/lecture/16720728> Acesso em: 5 mai. 2020.
 
-Oracle Brasil. Banco de dados. O que é um banco de dados relacional? Disponível em: <https://www.oracle.com/br/database/what-is-a-relational-database/>. Acesso em 21 set. 2020.
+ORACLE BRASIL. Banco de dados. O que é um banco de dados relacional? Disponível em: <https://www.oracle.com/br/database/what-is-a-relational-database/>. Acesso em 21 set. 2020.
 
-Rocketseat. Curso de Node JS. Disponível em: <https://app.rocketseat.com.br/dashboard/gostack-11>. Acesso em: 2 set. 2020.
+ROCKETSEAT. Curso de Node JS. Disponível em: <https://app.rocketseat.com.br/dashboard/gostack-11>. Acesso em: 2 set. 2020.
 
 SZPAK, César. Curso de NodeJS. CELKE. Disponível em: <https://celke.com.br/clms/aula-curso-view/2647>. Acesso em: 5 abr. 2020.
