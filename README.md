@@ -185,7 +185,7 @@ Os Casos de Uso relacionados a entrega das MVPs, como Inscrição em Cursos Prof
 ![Sistemacontrolecursosoutrasentidades](https://github.com/user-attachments/assets/c1bef7ea-5c79-4f6f-a71a-5b12050f330f)
 
 ### Sistema de Cadastro de Voluntário e de Autônomo
-![Autonomoevoluntario](https://github.com/user-attachments/assets/e8b9e767-b8eb-4918-ba02-3e8d2b6d57b3)
+![cadastroautonomo](https://github.com/user-attachments/assets/7c29d1a9-b3d4-46bb-9355-693a4a45431c)
 
 ### MVP - Sistema de Cadastro de Curso, Turma, Instrutor e Participante 
 ![mvp](https://github.com/user-attachments/assets/ce895439-845d-4567-b422-468e81f78384)
