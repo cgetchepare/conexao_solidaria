@@ -1,4 +1,4 @@
-<img <img width="270" alt="faculdades_senac" src="https://github.com/user-attachments/assets/68271d95-fbeb-46bf-957e-3bce6027d738" />
+<img width="270" alt="faculdades_senac" src="https://github.com/user-attachments/assets/68271d95-fbeb-46bf-957e-3bce6027d738" />
 
 # Conexão Solidária
 
