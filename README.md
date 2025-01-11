@@ -1,4 +1,4 @@
-<img width="270" alt="faculdades_senac" src="https://github.com/user-attachments/assets/515010f9-96ff-4f9c-b810-355a23004aac" />
+<img <img width="270" alt="faculdades_senac" src="https://github.com/user-attachments/assets/68271d95-fbeb-46bf-957e-3bce6027d738" />
 
 # Conexão Solidária
 
@@ -169,7 +169,7 @@ O Conexão Solidária emprega a linguagem Javascript, com os frameworks NodeJs e
 
 ## Diagrama ER
 
-![banco](https://github.com/user-attachments/assets/1d73b727-ca6f-4db3-aba6-76ebbab68add)
+![banco](https://github.com/user-attachments/assets/7301dcb5-9562-416f-9b9f-21bb4374fe90)
 
 ## Diagrama de Casos de Uso
 
@@ -178,19 +178,19 @@ Os Casos de Uso relacionados a entrega das MVPs, como Inscrição em Cursos Prof
 ## Sistema de Cadastro de Cursos Profissionalizantes - Comunidade, Entidade Afim e Outros Órgãos 
 
 ### Sistema de Cadastro de Paróquias, Comunidades, Entidades e Cargos
-![Sistemacadastroparoquiacomunidade](https://github.com/user-attachments/assets/2fd278e1-7da9-473a-837d-c5ca9e1106b4)
+![Sistemacadastroparoquiacomunidade](https://github.com/user-attachments/assets/24fc849f-97fd-4aef-a72d-55bc03e46d0d)
 
 ### Sistema de Inscrição em Curso Disponibilizado por uma Paróquia
-![cursodisponibilizadoporumaparoquia](https://github.com/user-attachments/assets/e994653b-22c5-45be-a35f-57a478e5a3fa)
+![cursodisponibilizadoporumaparoquia](https://github.com/user-attachments/assets/bc927c3a-9c9d-43d2-8e42-9ba82b78e861)
 
 ### Sistema de Controle de Vagas em Cursos Profissionalizantes Gratuitos em Outras Entidades
-![Sistemacontrolecursosoutrasentidades](https://github.com/user-attachments/assets/ac376088-7ea9-4ae1-be59-48db7c8dc6e8)
+![Sistemacontrolecursosoutrasentidades](https://github.com/user-attachments/assets/c1bef7ea-5c79-4f6f-a71a-5b12050f330f)
 
 ### Sistema de Cadastro de Voluntário e de Autônomo
-![Autonomoevoluntario](https://github.com/user-attachments/assets/5b8bb630-c2d3-4797-906c-82c9f8fa8185)
+![Autonomoevoluntario](https://github.com/user-attachments/assets/e8b9e767-b8eb-4918-ba02-3e8d2b6d57b3)
 
 ### MVP - Sistema de Cadastro de Curso, Turma, Instrutor e Participante 
-![mvp](https://github.com/user-attachments/assets/6581b3e1-921e-42e1-a7f2-642dacb89c4a)
+![mvp](https://github.com/user-attachments/assets/ce895439-845d-4567-b422-468e81f78384)
 
 ## Prototipação
 
@@ -199,7 +199,7 @@ Os [Protótipos][1] das telas serão em formato responsivo para o site e aplicat
 [1]: <https://gitlab.com/projeto-de-desenvolvimento-2020.2/conexao-solidaria/documentation/-/wikis/Prototipos>
 
 ## Mapa do Projeto
-<img width="440" alt="mapa" src="https://github.com/user-attachments/assets/7ff1a880-339a-4c21-801b-f62c62a8fdb9" />
+<img width="440" alt="mapa" src="https://github.com/user-attachments/assets/b0a3fef6-4f82-45fe-8f56-49b3f2cda325" />
 
 ## Tecnologias Utilizadas
 
@@ -208,7 +208,7 @@ Utilização da linguagem JavaScript com as tecnologias NodeJs, React e React Na
 # Demonstração
 
 ## Cronograma 
-![cronograma](https://github.com/user-attachments/assets/4a13a80a-4f65-4a4c-9315-9622101b3032)
+![cronograma](https://github.com/user-attachments/assets/007d95b0-bf95-4d06-b189-3362c5079716)
 
 * Cada ação deverá ser elaborada como um sprint de 10 a 14 dias. 
 
