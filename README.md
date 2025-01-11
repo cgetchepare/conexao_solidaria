@@ -203,13 +203,6 @@ Os [Protótipos][1] das telas serão em formato responsivo para o site e aplicat
 
 Utilização da linguagem JavaScript com as tecnologias NodeJs, React e React Native. SGBD MySQL.
 
-# Demonstração
-
-## Cronograma 
-![cronograma](https://github.com/user-attachments/assets/007d95b0-bf95-4d06-b189-3362c5079716)
-
-* Cada ação deverá ser elaborada como um sprint de 10 a 14 dias. 
-
 ## Referências
 
 DEVMEDIA. Curso de Mysql. Disponível em: <https://www.devmedia.com.br/mysql/>. Acesso em: 2 set. 2020.
